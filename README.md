@@ -1,2 +1,2 @@
 # mini-ml
-Small metacircular interpreter for a purely functional subset of OCaml
+An implementation of the final project for Harvard's CS51 class
